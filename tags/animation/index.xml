@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on SVG Artisan</title>
+    <link>https://svgartisan.net/tags/animation/</link>
+    <description>Recent content in Animation on SVG Artisan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 13:35:32 +0100</lastBuildDate><atom:link href="https://svgartisan.net/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animating SVGs With SMIL</title>
+      <link>https://svgartisan.net/blog/animating-svgs-with-smil/</link>
+      <pubDate>Fri, 06 Aug 2021 13:35:32 +0100</pubDate>
+      
+      <guid>https://svgartisan.net/blog/animating-svgs-with-smil/</guid>
+      <description>A few things you should know  Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That&amp;rsquo;s who it works best for. The entire platform can be modified and customised to suit your needs. It&amp;rsquo;s very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog. It&amp;rsquo;s possible to work with all your favourite tools and apps with hundreds of integrations  to speed up your workflows, connect email lists, build communities and much more.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,284 @@
+<svg version="1.1" viewBox="0 0 273 150" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+    .wrapper {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.upper-lines rect:nth-child(1) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.2s);
+}
+
+.upper-lines rect:nth-child(2) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.4s);
+}
+
+.upper-lines rect:nth-child(3) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.6s);
+}
+
+.upper-lines rect:nth-child(4) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.8s);
+}
+
+.upper-lines rect:nth-child(5) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1s);
+}
+
+.upper-lines rect:nth-child(6) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.2s);
+}
+
+.upper-lines rect:nth-child(7) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.4s);
+}
+
+.upper-lines rect:nth-child(8) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.6s);
+}
+
+.upper-lines rect:nth-child(9) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.8s);
+}
+
+.upper-lines rect:nth-child(10) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2s);
+}
+
+.upper-lines rect:nth-child(11) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.2s);
+}
+
+.upper-lines rect:nth-child(12) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.4s);
+}
+
+.upper-lines rect:nth-child(13) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.6s);
+}
+
+.upper-lines rect:nth-child(14) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.8s);
+}
+
+.upper-lines rect:nth-child(15) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3s);
+}
+
+.upper-lines rect:nth-child(16) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.2s);
+}
+
+.upper-lines rect:nth-child(17) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.4s);
+}
+
+.upper-lines rect:nth-child(18) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.6s);
+}
+
+.upper-lines rect:nth-child(19) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.8s);
+}
+
+.upper-lines rect:nth-child(20) {
+  animation: upper-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-4s);
+}
+
+.lower-lines rect:nth-child(1) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.2s);
+}
+
+.lower-lines rect:nth-child(2) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.4s);
+}
+
+.lower-lines rect:nth-child(3) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.6s);
+}
+
+.lower-lines rect:nth-child(4) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-0.8s);
+}
+
+.lower-lines rect:nth-child(5) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1s);
+}
+
+.lower-lines rect:nth-child(6) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.2s);
+}
+
+.lower-lines rect:nth-child(7) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.4s);
+}
+
+.lower-lines rect:nth-child(8) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.6s);
+}
+
+.lower-lines rect:nth-child(9) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-1.8s);
+}
+
+.lower-lines rect:nth-child(10) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2s);
+}
+
+.lower-lines rect:nth-child(11) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.2s);
+}
+
+.lower-lines rect:nth-child(12) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.4s);
+}
+
+.lower-lines rect:nth-child(13) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.6s);
+}
+
+.lower-lines rect:nth-child(14) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-2.8s);
+}
+
+.lower-lines rect:nth-child(15) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3s);
+}
+
+.lower-lines rect:nth-child(16) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.2s);
+}
+
+.lower-lines rect:nth-child(17) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.4s);
+}
+
+.lower-lines rect:nth-child(18) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.6s);
+}
+
+.lower-lines rect:nth-child(19) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-3.8s);
+}
+
+.lower-lines rect:nth-child(20) {
+  animation: lower-1 6s ease-in-out infinite var(--delay);
+  --delay: calc(-4s);
+}
+
+@keyframes upper-1 {
+  0% {
+    transform: translateY(65px);
+    fill: purple;
+  }
+  50% {
+    transform: translateY(-70px);
+    fill: dodgerBlue;
+  }
+  100% {
+    transform: translateY(65px);
+    fill: purple;
+  }
+}
+@keyframes lower-1 {
+  0% {
+    transform: translateY(65px);
+    fill: yellow;
+  }
+  50% {
+    transform: translateY(-70px);
+    fill: orangeRed;
+  }
+  100% {
+    transform: translateY(65px);
+    fill: yellow;
+  }
+}
+</style>
+    <g class="upper-lines">
+  <rect y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="14" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="28" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="42" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="56" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="70" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="84" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="98" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="112" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="126" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="140" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="154" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="168" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="182" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="196" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="210" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="224" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="238" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="252" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="266" y="-76.5" width="7" height="150" rx="3" ry="3"></rect>
+ </g>
+ <g class="lower-lines">
+  <rect y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="14" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="28" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="42" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="56" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="70" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="84" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="98" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="112" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="126" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="140" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="154" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="168" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="182" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="196" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="210" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="224" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="238" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="252" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+  <rect x="266" y="76.5" width="7" height="150" rx="3" ry="3"></rect>
+ </g>
+</svg>

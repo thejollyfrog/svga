@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SVG Artisan</title>
+    <link>https://svgartisan.net/tags/</link>
+    <description>Recent content in Tags on SVG Artisan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>featured</title>
+      <link>https://svgartisan.net/tags/featured/</link>
+      <pubDate>Fri, 06 Aug 2021 13:39:23 +0100</pubDate>
+      
+      <guid>https://svgartisan.net/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>https://svgartisan.net/tags/animation/</link>
+      <pubDate>Fri, 06 Aug 2021 13:35:32 +0100</pubDate>
+      
+      <guid>https://svgartisan.net/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

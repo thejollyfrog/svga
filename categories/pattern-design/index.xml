@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern Design on SVG Artisan</title>
+    <link>https://svgartisan.net/categories/pattern-design/</link>
+    <description>Recent content in Pattern Design on SVG Artisan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 13:38:27 +0100</lastBuildDate><atom:link href="https://svgartisan.net/categories/pattern-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Layer Your Surface Patterns</title>
+      <link>https://svgartisan.net/blog/layer-your-surface-patterns/</link>
+      <pubDate>Fri, 06 Aug 2021 13:38:27 +0100</pubDate>
+      
+      <guid>https://svgartisan.net/blog/layer-your-surface-patterns/</guid>
+      <description>While there are many pattern layouts you can choose for your surface pattern designs, one of the most impressive is the multi layered surface pattern. In this post I will cover the advantages of and instructions for successfully completing a layered repeating pattern.
+Why layer your patterns? While single layer patterns can look elegant, beautiful and are often the right look for your purposes, sometimes they can appear flat, uninspired and have clearly noticeable repeats.</description>
+    </item>
+    
+    <item>
+      <title>How to Create Surface Patterns With Inkscape</title>
+      <link>https://svgartisan.net/blog/how-to-create-surface-patterns-with-inkscape/</link>
+      <pubDate>Fri, 06 Aug 2021 13:37:38 +0100</pubDate>
+      
+      <guid>https://svgartisan.net/blog/how-to-create-surface-patterns-with-inkscape/</guid>
+      <description>Creating your own repeating seamless pattern tool is simple and this pattern tool can be used time and time again. For the sake of this tutorial, I will choose the dimensions — feel free to alter these to suit your pattern design specifications.
+Buy my ready to use Inkscape seamless pattern templates £6 Simple installation instructions included.
+Buy the complete set of assets used in this tutorial £37 These can be used in your own patterns.</description>
+    </item>
+    
+  </channel>
+</rss>
