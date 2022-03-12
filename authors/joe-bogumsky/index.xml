@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Bogumsky on SVG Artisan</title>
-    <link>https://svgartisan.net/authors/joe-bogumsky/</link>
+    <link>https://svgartisan.netlify.app/authors/joe-bogumsky/</link>
     <description>Recent content in Joe Bogumsky on SVG Artisan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://svgartisan.net/authors/joe-bogumsky/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://svgartisan.netlify.app/authors/joe-bogumsky/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

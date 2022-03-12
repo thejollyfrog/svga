@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on SVG Artisan</title>
-    <link>https://svgartisan.net/blog/</link>
+    <link>https://svgartisan.netlify.app/blog/</link>
     <description>Recent content in Blogs on SVG Artisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SVG Coordinates Explained</title>
-      <link>https://svgartisan.net/blog/svg-coordinates-explained/</link>
+      <link>https://svgartisan.netlify.app/blog/svg-coordinates-explained/</link>
       <pubDate>Fri, 06 Aug 2021 13:39:23 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/svg-coordinates-explained/</guid>
+      <guid>https://svgartisan.netlify.app/blog/svg-coordinates-explained/</guid>
       <description>This post is part of a series written for those looking to dive a little deeper into SVG. Understanding SVG coordinates will help you to better optimize your artwork and to locate and solve issues.
 What do you mean by SVG coordinates? While SVG is often used to make graphics for the web and for print, SVG isn&amp;rsquo;t technically an image, and it has many other uses.
 SVGs can be displayed as images but, in contrast to JPGs, PNGs and GIFs, SVGs are drawn by the browser using a set of coordinates.</description>
@@ -20,39 +20,39 @@ SVGs can be displayed as images but, in contrast to JPGs, PNGs and GIFs, SVGs ar
     
     <item>
       <title>Paint Photorealistic Flora With Krita</title>
-      <link>https://svgartisan.net/blog/paint-photorealistic-flora-with-krita/</link>
+      <link>https://svgartisan.netlify.app/blog/paint-photorealistic-flora-with-krita/</link>
       <pubDate>Fri, 06 Aug 2021 13:38:56 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/paint-photorealistic-flora-with-krita/</guid>
+      <guid>https://svgartisan.netlify.app/blog/paint-photorealistic-flora-with-krita/</guid>
       <description>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis semper nibh, non aliquam dolor. Suspendisse porttitor luctus pharetra. Aenean semper tortor non urna iaculis, quis sollicitudin libero tincidunt. Nulla dictum bibendum ante, non pellentesque lacus tempus nec. Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id efficitur ante porttitor in. Suspendisse potenti. Maecenas et tristique leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Layer Your Surface Patterns</title>
-      <link>https://svgartisan.net/blog/layer-your-surface-patterns/</link>
+      <link>https://svgartisan.netlify.app/blog/layer-your-surface-patterns/</link>
       <pubDate>Fri, 06 Aug 2021 13:38:27 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/layer-your-surface-patterns/</guid>
+      <guid>https://svgartisan.netlify.app/blog/layer-your-surface-patterns/</guid>
       <description>While there are many pattern layouts you can choose for your surface pattern designs, one of the most impressive is the multi layered surface pattern. In this post I will cover the advantages of and instructions for successfully completing a layered repeating pattern.
 Why layer your patterns? While single layer patterns can look elegant, beautiful and are often the right look for your purposes, sometimes they can appear flat, uninspired and have clearly noticeable repeats.</description>
     </item>
     
     <item>
       <title>How to Draw an Acanthus Leaf</title>
-      <link>https://svgartisan.net/blog/how-to-draw-an-acanthus-leaf/</link>
+      <link>https://svgartisan.netlify.app/blog/how-to-draw-an-acanthus-leaf/</link>
       <pubDate>Fri, 06 Aug 2021 13:38:03 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/how-to-draw-an-acanthus-leaf/</guid>
+      <guid>https://svgartisan.netlify.app/blog/how-to-draw-an-acanthus-leaf/</guid>
       <description>The acanthus leaf has been used throughout paintings and sculptures for thousands of years. Commonly, the acanthus has been incorporated in ancient Greek and Roman works and has been used to embellish artwork ever since. In this post, we are going to focus on the style of the Arts and Crafts movement, as this translates well into SVG.
 Note: whatever vector software you are using, it is wise to save regularly and set up autosave as a backup — losing your work is a frustrating experience and is easily prevented.</description>
     </item>
     
     <item>
       <title>How to Create Surface Patterns With Inkscape</title>
-      <link>https://svgartisan.net/blog/how-to-create-surface-patterns-with-inkscape/</link>
+      <link>https://svgartisan.netlify.app/blog/how-to-create-surface-patterns-with-inkscape/</link>
       <pubDate>Fri, 06 Aug 2021 13:37:38 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/how-to-create-surface-patterns-with-inkscape/</guid>
+      <guid>https://svgartisan.netlify.app/blog/how-to-create-surface-patterns-with-inkscape/</guid>
       <description>Creating your own repeating seamless pattern tool is simple and this pattern tool can be used time and time again. For the sake of this tutorial, I will choose the dimensions — feel free to alter these to suit your pattern design specifications.
 Buy my ready to use Inkscape seamless pattern templates £6 Simple installation instructions included.
 Buy the complete set of assets used in this tutorial £37 These can be used in your own patterns.</description>
@@ -60,39 +60,39 @@ Buy the complete set of assets used in this tutorial £37 These can be used in y
     
     <item>
       <title>Drawing Photorealistic Food With Krita</title>
-      <link>https://svgartisan.net/blog/drawing-photorealistic-food-with-krita/</link>
+      <link>https://svgartisan.netlify.app/blog/drawing-photorealistic-food-with-krita/</link>
       <pubDate>Fri, 06 Aug 2021 13:36:30 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/drawing-photorealistic-food-with-krita/</guid>
+      <guid>https://svgartisan.netlify.app/blog/drawing-photorealistic-food-with-krita/</guid>
       <description>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis semper nibh, non aliquam dolor. Suspendisse porttitor luctus pharetra. Aenean semper tortor non urna iaculis, quis sollicitudin libero tincidunt. Nulla dictum bibendum ante, non pellentesque lacus tempus nec.
 Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id efficitur ante porttitor in. Suspendisse potenti. Maecenas et tristique leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Create Stunning Artwork With Inkscape</title>
-      <link>https://svgartisan.net/blog/create-stunning-artwork-with-inkscape/</link>
+      <link>https://svgartisan.netlify.app/blog/create-stunning-artwork-with-inkscape/</link>
       <pubDate>Fri, 06 Aug 2021 13:36:00 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/create-stunning-artwork-with-inkscape/</guid>
+      <guid>https://svgartisan.netlify.app/blog/create-stunning-artwork-with-inkscape/</guid>
       <description>While beauty is arguably subjective, I believe there is still a minimum standard for artwork — after all artwork is a work (labour) of art (skill). With that said, this post is here to help you to take your ideas from concept to completion.
 Visualise your concept Think about what it is you want to achieve. Say you want to draw a pineapple, what is special about this pineapple which makes it worth drawing?</description>
     </item>
     
     <item>
       <title>Animating SVGs With SMIL</title>
-      <link>https://svgartisan.net/blog/animating-svgs-with-smil/</link>
+      <link>https://svgartisan.netlify.app/blog/animating-svgs-with-smil/</link>
       <pubDate>Fri, 06 Aug 2021 13:35:32 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/animating-svgs-with-smil/</guid>
+      <guid>https://svgartisan.netlify.app/blog/animating-svgs-with-smil/</guid>
       <description>A few things you should know  Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That&amp;rsquo;s who it works best for. The entire platform can be modified and customised to suit your needs. It&amp;rsquo;s very powerful, but does require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog. It&amp;rsquo;s possible to work with all your favourite tools and apps with hundreds of integrations  to speed up your workflows, connect email lists, build communities and much more.</description>
     </item>
     
     <item>
       <title>Animating SVG Which to Choose CSS or Smil</title>
-      <link>https://svgartisan.net/blog/animating-svg-which-to-choose-css-or-smil/</link>
+      <link>https://svgartisan.netlify.app/blog/animating-svg-which-to-choose-css-or-smil/</link>
       <pubDate>Fri, 06 Aug 2021 13:34:31 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/animating-svg-which-to-choose-css-or-smil/</guid>
+      <guid>https://svgartisan.netlify.app/blog/animating-svg-which-to-choose-css-or-smil/</guid>
       <description></description>
     </item>
     

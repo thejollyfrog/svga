@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical SVG on SVG Artisan</title>
-    <link>https://svgartisan.net/categories/technical-svg/</link>
+    <link>https://svgartisan.netlify.app/categories/technical-svg/</link>
     <description>Recent content in Technical SVG on SVG Artisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.net/categories/technical-svg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.netlify.app/categories/technical-svg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SVG Coordinates Explained</title>
-      <link>https://svgartisan.net/blog/svg-coordinates-explained/</link>
+      <link>https://svgartisan.netlify.app/blog/svg-coordinates-explained/</link>
       <pubDate>Fri, 06 Aug 2021 13:39:23 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/svg-coordinates-explained/</guid>
+      <guid>https://svgartisan.netlify.app/blog/svg-coordinates-explained/</guid>
       <description>This post is part of a series written for those looking to dive a little deeper into SVG. Understanding SVG coordinates will help you to better optimize your artwork and to locate and solve issues.
 What do you mean by SVG coordinates? While SVG is often used to make graphics for the web and for print, SVG isn&amp;rsquo;t technically an image, and it has many other uses.
 SVGs can be displayed as images but, in contrast to JPGs, PNGs and GIFs, SVGs are drawn by the browser using a set of coordinates.</description>

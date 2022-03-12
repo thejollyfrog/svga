@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SVG Artisan</title>
-    <link>https://svgartisan.net/tags/</link>
+    <link>https://svgartisan.netlify.app/tags/</link>
     <description>Recent content in Tags on SVG Artisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 13:39:23 +0100</lastBuildDate><atom:link href="https://svgartisan.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>featured</title>
-      <link>https://svgartisan.net/tags/featured/</link>
+      <link>https://svgartisan.netlify.app/tags/featured/</link>
       <pubDate>Fri, 06 Aug 2021 13:39:23 +0100</pubDate>
       
-      <guid>https://svgartisan.net/tags/featured/</guid>
+      <guid>https://svgartisan.netlify.app/tags/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Animation</title>
-      <link>https://svgartisan.net/tags/animation/</link>
+      <link>https://svgartisan.netlify.app/tags/animation/</link>
       <pubDate>Fri, 06 Aug 2021 13:35:32 +0100</pubDate>
       
-      <guid>https://svgartisan.net/tags/animation/</guid>
+      <guid>https://svgartisan.netlify.app/tags/animation/</guid>
       <description></description>
     </item>
     

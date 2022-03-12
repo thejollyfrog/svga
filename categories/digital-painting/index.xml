@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Painting on SVG Artisan</title>
-    <link>https://svgartisan.net/categories/digital-painting/</link>
+    <link>https://svgartisan.netlify.app/categories/digital-painting/</link>
     <description>Recent content in Digital Painting on SVG Artisan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 13:38:56 +0100</lastBuildDate><atom:link href="https://svgartisan.net/categories/digital-painting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 13:38:56 +0100</lastBuildDate><atom:link href="https://svgartisan.netlify.app/categories/digital-painting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paint Photorealistic Flora With Krita</title>
-      <link>https://svgartisan.net/blog/paint-photorealistic-flora-with-krita/</link>
+      <link>https://svgartisan.netlify.app/blog/paint-photorealistic-flora-with-krita/</link>
       <pubDate>Fri, 06 Aug 2021 13:38:56 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/paint-photorealistic-flora-with-krita/</guid>
+      <guid>https://svgartisan.netlify.app/blog/paint-photorealistic-flora-with-krita/</guid>
       <description>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis semper nibh, non aliquam dolor. Suspendisse porttitor luctus pharetra. Aenean semper tortor non urna iaculis, quis sollicitudin libero tincidunt. Nulla dictum bibendum ante, non pellentesque lacus tempus nec. Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id efficitur ante porttitor in. Suspendisse potenti. Maecenas et tristique leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Drawing Photorealistic Food With Krita</title>
-      <link>https://svgartisan.net/blog/drawing-photorealistic-food-with-krita/</link>
+      <link>https://svgartisan.netlify.app/blog/drawing-photorealistic-food-with-krita/</link>
       <pubDate>Fri, 06 Aug 2021 13:36:30 +0100</pubDate>
       
-      <guid>https://svgartisan.net/blog/drawing-photorealistic-food-with-krita/</guid>
+      <guid>https://svgartisan.netlify.app/blog/drawing-photorealistic-food-with-krita/</guid>
       <description>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris quis semper nibh, non aliquam dolor. Suspendisse porttitor luctus pharetra. Aenean semper tortor non urna iaculis, quis sollicitudin libero tincidunt. Nulla dictum bibendum ante, non pellentesque lacus tempus nec.
 Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id efficitur ante porttitor in. Suspendisse potenti. Maecenas et tristique leo. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
