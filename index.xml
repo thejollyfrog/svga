@@ -43,7 +43,7 @@ Why layer your patterns? While single layer patterns can look elegant, beautiful
       <pubDate>Fri, 06 Aug 2021 13:38:03 +0100</pubDate>
       
       <guid>https://svgartisan.netlify.app/blog/how-to-draw-an-acanthus-leaf/</guid>
-      <description>The acanthus leaf has been used throughout paintings and sculptures for thousands of years. Commonly, the acanthus has been incorporated in ancient Greek and Roman works and has been used to embellish artwork ever since. In this post, we are going to focus on the style of the Arts and Crafts movement, as this translates well into SVG.
+      <description>The acanthus leaf has been used in paintings, sculptures and carvings for thousands of years. Commonly, the acanthus has been incorporated in ancient Greek and Roman works and has been used to embellish artwork ever since. In this post, we are going to focus on the style of the Arts and Crafts movement, as this translates well into SVG.
 Note: whatever vector software you are using, it is wise to save regularly and set up autosave as a backup — losing your work is a frustrating experience and is easily prevented.</description>
     </item>
     
@@ -98,15 +98,6 @@ Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id effici
     </item>
     
     <item>
-      <title>Contribute to SVG Artisan</title>
-      <link>https://svgartisan.netlify.app/contribute/</link>
-      <pubDate>Fri, 06 Aug 2021 13:34:31 +0100</pubDate>
-      
-      <guid>https://svgartisan.netlify.app/contribute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inspiration</title>
       <link>https://svgartisan.netlify.app/inspiration/</link>
       <pubDate>Fri, 06 Aug 2021 13:34:31 +0100</pubDate>
@@ -122,6 +113,17 @@ Etiam pretium ante id ex placerat suscipit. In rhoncus elementum enim, id effici
       
       <guid>https://svgartisan.netlify.app/software/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Contribute to SVG Artisan</title>
+      <link>https://svgartisan.netlify.app/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://svgartisan.netlify.app/contribute/</guid>
+      <description>SVG Artisan was created to incourage those with a natural artistic/creative tendancy to transition toward free open source software.
+We are on the look-out for skilled artists/writers who share our objectives beliefs. Please read our ‘About’ page. If you still want to write for us, drop us an email (email address in the footer) and include links to your previous artistic and written work.
+All submitted work will be edited for consistency and quality.</description>
     </item>
     
   </channel>
